@@ -1,4 +1,5 @@
 #include <stdio.h>
+void first(void)
 /**
  * first - prints a phrase before the main
  * function is executed
